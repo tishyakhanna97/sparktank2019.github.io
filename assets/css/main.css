@@ -2102,6 +2102,8 @@ Cover
         transform: translateY(20px);
         -webkit-transition: all 0.4s 600ms ease-in-out;
         transition: all 0.4s 600ms ease-in-out;
+        white-space: nowrap;
+        font-size: 3em
     }
     
     .cover_slider .cover_item .slider_content .slider-content-inner .cover-xl-text {
@@ -2115,6 +2117,8 @@ Cover
         transform: translateY(20px);
         -webkit-transition: all 0.4s 600ms ease-in-out;
         transition: all 0.4s 600ms ease-in-out;
+        white-space: nowrap;
+        font-size: 3em
     }
     
     .cover_slider .cover_item .slider_content .slider-content-inner .cover-date {
